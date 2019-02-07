@@ -1,5 +1,8 @@
 {
   "presets": ["stage-2"],
-  "plugins": ["transform-runtime"],
+  "plugins": [
+    "transform-es2015-shorthand-properties",
+    "transform-runtime"
+  ],
   "comments": false
 }
