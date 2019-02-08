@@ -1,7 +1,7 @@
 {
   "name": "vue-image-lightbox",
   "description": "A Vue.js package to display an image gallery lightbox",
-  "version": "6.1.4",
+  "version": "6.1.5",
   "author": "Nguyen Thien Dzung <dzungnguyenvn@outlook.com>",
   "license": "MIT",
   "main": "dist/vue-image-lightbox.min.js",
@@ -38,6 +38,7 @@
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.4",
     "babel-plugin-transform-es2015-arrow-functions": "^6.22.0",
+    "babel-plugin-transform-es2015-parameters": "^6.24.1",
     "babel-plugin-transform-es2015-shorthand-properties": "^6.24.1",
     "babel-plugin-transform-runtime": "^6.23.0",
     "babel-preset-stage-2": "^6.24.1",
